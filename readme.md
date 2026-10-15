@@ -6,7 +6,7 @@
 模型面向事件驱动触觉传感器数据，通过空间图与时间图的双流脉冲图神经网络进行触觉物体识别，并使用可学习的自适应融合模块动态平衡两路信息。
 
 - 论文作者：Kaiqiang Huang, Yusen Wu, Jinde Zhu
-- 通讯作者：2241308065@smail.fjtu.edu.cn
+- 通讯作者：gnamic00@gmail.com
 
 ---
 
